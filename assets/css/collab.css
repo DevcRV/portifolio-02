@@ -1,0 +1,43 @@
+.collab {
+    background-color: var(--foreground);
+    color: var(--primary-foreground);
+    padding: 8rem 2rem;
+    text-align: center;
+}
+
+.collab .title {
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    margin-bottom: 3rem;
+}
+
+.collab .subtitle {
+    font-size: 1.7rem;
+    line-height: 2.2rem;
+    margin-bottom: 3rem;
+}
+
+.collab .button {
+    border-color: var(--background);
+    color: var(--background);
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.collab .button:hover {
+    background-color: var(--background);
+    color: var(--foreground);
+}
+
+@media (width >= 600px) {
+    .collab .title {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+
+    .collab .subtitle {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+}
