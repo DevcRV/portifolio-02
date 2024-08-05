@@ -1,6 +1,6 @@
-**Portifólio**
+**Portifólio-02**
 
-Bem-vindo ao repositório do Portifólio!
+Bem-vindo ao repositório do Portifólio-02!
 Este projeto é uma demonstração dos meus conhecimentos em JavaScript e desenvolvimento web.
 
 -----------------------------------------------------------------------------------------------
